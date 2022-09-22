@@ -15,7 +15,9 @@
 ## Скриншоты работы
 
 Скриншот с стороны клиента-сервера:
+
 ![Logo](https://i.ibb.co/Yb6GZBP/Screenshot-2.png)
 
 Скриншот с стороны клиента:
+
 ![Logo](https://i.ibb.co/Wv9j06v/Screenshot-3.png)
